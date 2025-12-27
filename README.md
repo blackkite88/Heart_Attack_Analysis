@@ -1,4 +1,4 @@
-# **Heart Attack Analysis **
+# Heart Attack Analysis 
 
 
 **GOAL**
@@ -128,5 +128,3 @@ By using Random Forest Classifier I got
 - Hence , we are looking at complete classification report , especisally **Recall**
 
 
-
-### BY :  Harshita Nayak
